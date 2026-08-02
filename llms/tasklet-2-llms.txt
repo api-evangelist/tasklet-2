@@ -1,0 +1,30 @@
+# Tasklet
+
+> Tasklet is a cloud AI agent operating system for knowledge work. Teams describe tasks in plain English and Tasklet builds autonomous agents that connect to thousands of apps, any HTTP API, or MCP servers, then take real actions — pulling reports, updating CRMs, triaging email, processing data — running 24/7 on schedules or event triggers. Founded 2025 by Andrew Lee and Jonny Dimond (ex-Firebase / Shortwave); YC S26.
+
+Note: Tasklet is a consumer of APIs and MCP servers, not a public developer-API provider. It exposes no OpenAPI, SDKs, or REST API reference of its own. The links below are its product and company surfaces.
+
+## Product
+- [Guide](https://tasklet.ai/learn/guide): How to set up agents, connections (HTTP API / MCP), and triggers.
+- [Use Cases](https://tasklet.ai/learn/use-cases): Example knowledge-work automations.
+- [Case Studies](https://tasklet.ai/learn/case-studies): Customer outcomes.
+- [Changelog](https://tasklet.ai/changelog): Dated product, model, and integration updates.
+
+## Trust & Security
+- [Trust & Security](https://tasklet.ai/learn/trust-security): Security posture overview.
+- [Trust Center](https://trust.tasklet.ai/): Vanta-hosted trust center. SOC 2 (Type I) achieved 2026-07-09.
+
+## Account
+- [Log in / Sign up](https://tasklet.ai/login)
+- [Pricing](https://tasklet.ai/pricing)
+- [Contact / Demo](https://tasklet.ai/learn/contact)
+
+## Company
+- [Blog](https://tasklet.ai/blog)
+- [Careers](https://tasklet.ai/careers)
+- [LinkedIn](https://www.linkedin.com/company/taskletai)
+- [X](https://x.com/taskletai)
+
+## Legal
+- [Terms of Service](https://tasklet.ai/terms-of-service)
+- [Privacy Policy](https://tasklet.ai/privacy-policy)

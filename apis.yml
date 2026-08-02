@@ -1,22 +1,97 @@
 aid: tasklet-2
-name: Tasklet 2
-description: Tasklet 2 is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Tasklet
+description: >-
+  Tasklet is a cloud AI agent operating system for knowledge work. Teams describe
+  tasks in plain English and Tasklet builds autonomous agents that connect to
+  thousands of apps, any HTTP API, or MCP servers, then take real actions on their
+  behalf — pulling reports, updating CRMs, triaging email, processing data, running
+  browser automation, executing code, and generating custom apps. Agents run in the
+  cloud 24/7 on schedules or event triggers so they can own ongoing workflows.
+  Founded in 2025 by Andrew Lee and Jonny Dimond (ex-Firebase / Shortwave), Tasklet
+  is a Y Combinator company (S26) that has raised $20M from Union Square Ventures,
+  Lightspeed, Jeff Dean, and the Collison brothers. Tasklet is a consumer of APIs
+  and MCP servers rather than a public developer-API provider; it exposes no
+  OpenAPI, SDKs, or REST reference of its own.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://tasklet.ai/og-image.png
 url: https://raw.githubusercontent.com/api-evangelist/tasklet-2/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - y-combinator
-x-tier: stub
+- union-square-ventures
+- lightspeed
+x-tier: profiled
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- AI Agents
+- Agent Platform
+- Workflow Automation
+- Knowledge Work
+- MCP
+- Integrations
+- Artificial Intelligence
 apis: []
+common:
+- type: Website
+  url: https://tasklet.ai
+- type: DeveloperPortal
+  url: https://tasklet.ai/learn/guide
+- type: Documentation
+  url: https://tasklet.ai/learn/guide
+- type: GettingStarted
+  url: https://tasklet.ai/learn/guide
+- type: Blog
+  url: https://tasklet.ai/blog
+- type: ChangeLog
+  url: https://tasklet.ai/changelog
+- type: ChangeLog
+  url: changelog/tasklet-2-changelog.yml
+- type: Pricing
+  url: https://tasklet.ai/pricing
+- type: SignUp
+  url: https://tasklet.ai/login
+- type: Login
+  url: https://tasklet.ai/login
+- type: Support
+  url: https://tasklet.ai/learn/contact
+- type: TermsOfService
+  url: https://tasklet.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://tasklet.ai/privacy-policy
+- type: TrustCenter
+  url: security/tasklet-2-trust-center.yml
+- type: TrustCenter
+  url: https://trust.tasklet.ai/
+- type: Compliance
+  url: security/tasklet-2-trust-center.yml
+- type: LLMsTxt
+  url: llms/tasklet-2-llms.txt
+- type: LinkedIn
+  url: https://www.linkedin.com/company/taskletai
+- type: Twitter
+  url: https://x.com/taskletai
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

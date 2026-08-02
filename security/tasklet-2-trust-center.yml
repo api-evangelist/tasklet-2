@@ -1,0 +1,18 @@
+generated: '2026-07-21'
+method: searched
+source: https://trust.tasklet.ai/
+name: Tasklet Trust Center
+type: TrustCenter
+url: https://trust.tasklet.ai/
+platform: Vanta
+description: >-
+  Tasklet publishes a Vanta-hosted Trust Center at trust.tasklet.ai covering its
+  security and compliance posture. SOC 2 (Type I) compliance was announced in the
+  product changelog on 2026-07-09.
+certifications:
+- name: SOC 2
+  type: Type I
+  status: achieved
+  achieved: '2026-07-09'
+  source: https://tasklet.ai/changelog
+security_page: https://tasklet.ai/learn/trust-security

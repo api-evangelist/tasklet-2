@@ -12,6 +12,17 @@ description: >-
   Lightspeed, Jeff Dean, and the Collison brothers. Tasklet is a consumer of APIs
   and MCP servers rather than a public developer-API provider; it exposes no
   OpenAPI, SDKs, or REST reference of its own.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

@@ -51,7 +51,7 @@ tags:
 - Company
 - AI Agents
 - Agent Platform
-- Workflow-Automation
+- Workflow Automation
 - Knowledge Work
 - MCP
 - Integration
@@ -65,6 +65,7 @@ tags_raw:
 - MCP
 - Integrations
 - Artificial Intelligence
+- Workflow-Automation
 apis: []
 common:
 - type: Website

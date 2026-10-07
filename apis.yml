@@ -68,6 +68,8 @@ tags_raw:
 - Workflow-Automation
 apis: []
 common:
+- type: Plans
+  url: plans/tasklet-2-plans-pricing.yml
 - url: https://tasklet.ai/blog.xml
   type: BlogRSS
 - type: Website

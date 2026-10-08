@@ -51,3 +51,44 @@ plans:
   period: one-time
   unit: credits
   included_quota: valid for one year, $25 minimum purchase
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - hybrid
+  - metered
+  units:
+  - credit
+  plans:
+  - name: Starter
+    access: other
+    model: hybrid
+    model_how: derived
+    units:
+    - credit
+    periods:
+    - month
+  - name: Pro
+    access: other
+    model: hybrid
+    model_how: derived
+    units:
+    - credit
+    periods:
+    - month
+  - name: Custom
+    access: other
+    model: hybrid
+    model_how: derived
+    units:
+    - credit
+    periods:
+    - month
+  - name: One-time credits
+    access: other
+    model: metered
+    model_how: derived
+    units:
+    - credit
+    periods:
+    - one-time

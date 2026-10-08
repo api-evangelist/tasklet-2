@@ -1,0 +1,53 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://tasklet.ai/pricing
+sources:
+- https://tasklet.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-call
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Starter
+published: true
+note: Credit-based plans with a long tiered ladder from 10,000 credits for $25/month up to 4,000,000 credits
+  for $10,000/month; no per-seat fees, unlimited team members sharing one credit pool.
+plan_count: 4
+currency: USD
+plans:
+- name: Starter
+  price_text: $25 / month
+  price: 25
+  currency: USD
+  period: month
+  unit: credits
+  included_quota: 10,000 credits per month; Claim 600 free bonus credits daily by using Tasklet; Unlimited
+    automation runs; Agent web browser; Full size file uploads; Email support
+- name: Pro
+  price_text: $100 / month
+  price: 100
+  currency: USD
+  period: month
+  unit: credits
+  included_quota: 40,000 credits per month; 600 free bonus credits daily; Unlimited automation runs; Agent
+    web browser; Full size file uploads; Email support
+- name: Custom
+  price_text: $250 / month
+  price: 250
+  currency: USD
+  period: month
+  unit: credits
+  included_quota: 'Custom: $250 for 100,000 credits per month (select above); Email & video support'
+  overage: Contact us for more credits
+- name: One-time credits
+  price_text: $5 per 1,600 credits
+  currency: USD
+  period: one-time
+  unit: credits
+  included_quota: valid for one year, $25 minimum purchase
